@@ -1,0 +1,23 @@
+{
+  "name": "InsertionSort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChanceHarmon/InsertionSort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChanceHarmon/InsertionSort/issues"
+  },
+  "homepage": "https://github.com/ChanceHarmon/InsertionSort#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
