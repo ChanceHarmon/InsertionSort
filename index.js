@@ -17,4 +17,6 @@ const insertionSort = array => {
 }
 insertionSort(array);
 
-console.log(array); 
+//console.log(array);
+
+module.exports = insertionSort;
